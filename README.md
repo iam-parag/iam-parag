@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @paragrajput
-- 👀 I’m interested in DevOPS ...
-- 🌱 I’m currently learning new tech ...
+👋 Hello, I'm Parag!
+🚀 DevOps Engineer | Cloud Enthusiast | Infrastructure Automation
 
-<!---
-paragrajput/paragrajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 DevOps Experience: 3.5+ years of expertise in CI/CD, Kubernetes, Terraform, and Azure Cloud.
+💡 Skilled in designing, implementing, and managing scalable and secure infrastructure.
+⚙️ Passionate about automation, containerization, and creating efficient workflows.
+🚧 What I’m Working On
+Building robust infrastructure for scalable applications.
+Exploring advanced Kubernetes orchestration and monitoring solutions.
+Automating deployments with GitOps workflows.
+📂 Tech Stack
+Cloud Platforms: Azure, AWS
+Containerization: Docker, Kubernetes (AKS)
+Automation: Terraform, Ansible
+CI/CD Tools: Azure DevOps, Jenkins, GitHub Actions
+Monitoring & Logging: Prometheus, Grafana, ELK Stack
+🌱 What I’m Learning
+Expanding my expertise in multi-cloud architectures.
+Exploring FinOps for cost-optimized cloud strategies.
