@@ -21,4 +21,4 @@
 - Exploring **FinOps** for cost-optimized cloud strategies.
 
 #### 📫 **Let’s Connect!**
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/parag-v-chaudhari)
