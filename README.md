@@ -11,10 +11,10 @@
 
 #### 📂 **Tech Stack**
 - **Cloud Platforms**: Azure, AWS
-- **Containerization**: Docker, Kubernetes (AKS)
+- **Containerization**: Docker, Kubernetes
 - **Automation**: Terraform, Ansible
-- **CI/CD Tools**: Azure DevOps, Jenkins, GitHub Actions
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **CI/CD Tools**: Jenkins
+- **Monitoring & Logging**: Prometheus, Grafana
 
 #### 🌱 **What I’m Learning**
 - Expanding my expertise in **multi-cloud architectures**.
