@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Parag!
 🚀 **DevOps Engineer | Cloud Enthusiast | Infrastructure Automation**
 
-- 🛠 **DevOps Experience**: 3.6+ years of expertise in **CI/CD**, **Kubernetes**, **Terraform**, and **Azure Cloud**.
+- 🛠 **DevOps Experience**: 3.8+ years of expertise in **CI/CD**, **Kubernetes**, **Terraform**, and **Azure Cloud**.
 - 💡 Skilled in designing, implementing, and managing scalable and secure infrastructure.
 - ⚙️ Passionate about **automation**, **containerization**, and creating efficient workflows.
 
@@ -13,8 +13,8 @@
 - **Cloud Platforms**: Azure, AWS
 - **Containerization**: Docker, Kubernetes
 - **Automation**: Terraform, Ansible
-- **CI/CD Tools**: Jenkins
-- **Monitoring & Logging**: Prometheus, Grafana
+- **CI/CD Tools**: Jenkins,Github Action,ArgoCD
+- **Monitoring & Logging**: Prometheus, Grafana,Loki
 
 #### 🌱 **What I’m Learning**
 - Expanding my expertise in **multi-cloud architectures**.
